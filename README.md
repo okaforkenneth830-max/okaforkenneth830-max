@@ -1,203 +1,239 @@
-<!-- ========================= -->
+<!-- =========================================================
+     KENNETH OKAFOR — GITHUB PROFILE README
+     ========================================================= -->
 
-<!--        PROFILE BANNER     -->
-
-<!-- ========================= -->
+<!-- PROFILE BANNER -->
 
 <p align="center">
-  <img 
-    src="https://github.com/okaforkenneth830-max/okaforkenneth830-max/blob/main/profile%20banner.png"
-    alt="Kenneth Okafor Profile Banner"
+  <img
+    src="https://github.com/okaforkenneth830-max/okaforkenneth830-max/blob/main/my%20profile%20banner%202.png"
+    alt="Kenneth Okafor — GitHub Profile Banner"
     width="100%"
   />
 </p>
 
-<!-- ========================= -->
+<br>
 
-<!--       TYPING INTRO        -->
-
-<!-- ========================= -->
+<!-- TYPING INTRO -->
 
 <p align="center">
   <a href="https://github.com/okaforkenneth830-max">
-    <img 
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+I'm+Kenneth+Okafor+%F0%9F%91%8B;Software+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Linux+%7C+Git+%7C+GitHub+%7C+Cloud+Technologies;Building+Projects%2C+Learning+%26+Growing+Every+Day+%F0%9F%9A%80"
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=Welcome+to+my+GitHub+profile;Software+%26+Technology+Enthusiast;Linux+%7C+Git+%7C+Cloud+%7C+DevOps;Building+skills+through+real-world+projects;Learn.+Build.+Secure.+Improve."
       alt="Typing SVG"
     />
   </a>
 </p>
 
+<br>
+
+<!-- PROFILE SUMMARY -->
+
+<h2>👋 About Me</h2>
+
+<p>
+I’m <strong>Kenneth Okafor</strong>, a technology enthusiast focused on developing
+practical technical skills through hands-on projects, continuous learning, and
+problem solving.
+</p>
+
+<p>
+My interests span <strong>software development, Linux, cloud technologies,
+DevOps, cybersecurity, automation, and computing</strong>. I enjoy understanding
+how systems work, building practical solutions, and documenting what I learn.
+</p>
+
 ---
 
-## 👨‍💻 About Me
+<h2>🧭 Professional Focus</h2>
 
-I'm **Kenneth Okafor**, a technology enthusiast and software developer passionate about building practical solutions, exploring modern technologies, and continuously improving my technical skills.
+<p>
+My current learning journey is centered around building a strong foundation
+across software, infrastructure, cloud, and security technologies.
+</p>
 
-I enjoy working with **software development, Linux, Git/GitHub, cloud technologies, DevOps, automation, and computational technologies**.
-
-```text
-💻 Building
-📚 Learning
-🔧 Experimenting
-🚀 Deploying
-🌱 Growing
-```
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>💻 Development</strong><br>
+      Programming & Applications
+    </td>
+    <td align="center" width="25%">
+      <strong>🐧 Linux</strong><br>
+      Systems & Administration
+    </td>
+    <td align="center" width="25%">
+      <strong>☁️ Cloud</strong><br>
+      Infrastructure & Services
+    </td>
+    <td align="center" width="25%">
+      <strong>🔐 Security</strong><br>
+      Secure Systems & Practices
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack & Tools
+<h2>🛠️ Technologies & Tools</h2>
 
-### 💻 Programming & Development
+### Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,bash" />
 </p>
 
-### ⚙️ DevOps, Cloud & Infrastructure
+### Development & Infrastructure
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,azure" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,azure,mysql" />
 </p>
 
-### 🛠️ Tools & Technologies
+### Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,mysql,postman,figma" />
-</p>
-
----
-
-## 🎯 Areas of Interest
-
-<p align="center">
-
-| Area                     | Focus                                 |
-| ------------------------ | ------------------------------------- |
-| 💻 Software Development  | Building practical applications       |
-| ☁️ Cloud Computing       | Cloud infrastructure and services     |
-| ⚙️ DevOps                | Automation, CI/CD and deployment      |
-| 🐧 Linux                 | System administration and development |
-| 🔐 Cybersecurity         | Security awareness and secure systems |
-| 🗄️ Databases            | Data storage and management           |
-| 🤖 Automation            | Scripts and workflow automation       |
-| 📊 Computational Science | Computing and problem solving         |
-
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,gitlab,postman,figma" />
 </p>
 
 ---
 
-## 🚀 What I'm Currently Working On
+<h2>📚 Currently Learning</h2>
+
+```text
+Linux & System Administration
+        ↓
+Git & GitHub
+        ↓
+Programming & Automation
+        ↓
+Cloud Technologies
+        ↓
+DevOps & CI/CD
+        ↓
+Cybersecurity & Secure Development
+```
+
+I believe technical growth comes from combining **structured learning with
+consistent hands-on practice**.
+
+---
+
+<h2>🚀 What I Build</h2>
+
+* 🐧 Linux administration and laboratory projects
+* 💻 Software and programming projects
+* ⚙️ Automation scripts and utilities
+* ☁️ Cloud and infrastructure experiments
+* 🔐 Cybersecurity learning projects
+* 🔧 DevOps and deployment workflows
+* 📖 Technical documentation and learning resources
+
+---
+
+<h2>📂 Featured Work</h2>
+
+<p>
+I use GitHub to document practical projects, experiments, laboratory exercises,
+scripts, and technical learning.
+</p>
+
+<p align="center">
+  <a href="https://github.com/okaforkenneth830-max?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2>📊 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=okaforkenneth830-max&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaforkenneth830-max&layout=compact&hide_border=true&theme=github_dark"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+<h2>🔥 Development Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=okaforkenneth830-max&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<h2>💡 My Approach</h2>
+
+<p align="center">
+
+<strong>Learn</strong> → <strong>Practice</strong> → <strong>Build</strong> → <strong>Document</strong> → <strong>Improve</strong>
+
+</p>
+
+<p>
+I value consistency, curiosity, documentation, and practical experience.
+Every project is an opportunity to understand something more deeply and improve
+the way I approach technical problems.
+</p>
+
+---
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/okaforkenneth830-max">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h2>📌 Profile Status</h2>
 
 ```yaml
-learning:
+name: Kenneth Okafor
+
+focus:
+  - Software Development
   - Linux
-  - Git & GitHub
   - Cloud Computing
   - DevOps
-  - Software Development
+  - Cybersecurity
+  - Automation
 
-building:
-  - Practical development projects
-  - Linux laboratory projects
-  - Automation scripts
-  - Cloud and DevOps projects
+mindset:
+  - Continuous Learning
+  - Practical Problem Solving
+  - Documentation
+  - Improvement
 
-goal:
-  - Become a highly skilled technology professional
-  - Build useful and impactful software
-  - Continuously learn and contribute to open source
+currently:
+  status: "Learning, Building & Experimenting"
 ```
 
 ---
 
-## 📌 Featured Projects
-
-> 🚧 My projects are continuously being developed and updated.
-
-### 🐧 Linux Projects
-
-Practical Linux administration, command-line exercises, shell scripting and system configuration.
-
-### ⚙️ DevOps Projects
-
-Projects involving Git, GitHub, automation, CI/CD concepts and deployment workflows.
-
-### 💻 Software Development
-
-Applications and experiments created while developing my programming and problem-solving skills.
-
-### ☁️ Cloud Projects
-
-Hands-on exploration of cloud infrastructure, services and deployment technologies.
-
----
-
-## 📈 GitHub Statistics
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=okaforkenneth830-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaforkenneth830-max&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=700&height=45&lines=Thanks+for+visiting+my+profile.;More+projects+are+coming.;Stay+curious.+Keep+building."
+    alt="Closing Typing SVG"
   />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=okaforkenneth830-max&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/okaforkenneth830-max/okaforkenneth830-max/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-## 🌱 My Development Philosophy
-
-> **Learn → Build → Break → Fix → Improve → Repeat 🚀**
-
-I believe the best way to grow as a developer is through consistent learning, practical projects, experimentation, and collaboration.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/okaforkenneth830-max">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9B%A0%EF%B8%8F;Keep+Growing+%F0%9F%8C%B1;Keep+Creating+%F0%9F%9A%80"
-    alt="Closing Typing Animation"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>© Kenneth Okafor — Building the future one project at a time.</i>
+  <sub>© Kenneth Okafor • Built with Markdown, GitHub & continuous learning.</sub>
 </p>
